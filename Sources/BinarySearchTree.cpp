@@ -1,4 +1,4 @@
-#include "BinarySearchTree.h"
+#include "../include/BinarySearchTree.h"
 
 BinarySearchTree::BinarySearchTree(const std::initializer_list <T> &list)
 {
@@ -12,4 +12,3 @@ BinarySearchTree::~BinarySearchTree()
     size_ = 0;
 }
 
-BinarySearchTree::
